@@ -3,8 +3,7 @@ description: Osobný blog
 url: "https://romanbaranovic.github.io"
 theme: minima
 
-author:
-  name: Roman Baranovic
+author: Roman Baranovic
 
 permalink: /:year/:month/:day/:title/
 
