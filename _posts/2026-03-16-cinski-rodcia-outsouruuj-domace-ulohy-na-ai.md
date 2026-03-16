@@ -1,9 +1,7 @@
 ---
+layout: post
 title: "Čínski rodičia outsourcujú domáce úlohy na AI"
-zdroj: "https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html"
-datum: 2026-03-15
-tema: AI vo vzdelávaní, EdTech, Čína
-tagy: #ai #vzdelavanie #edtech #cina #rodicia #nastroje
+date: 2026-03-15
 ---
 
 ```text
