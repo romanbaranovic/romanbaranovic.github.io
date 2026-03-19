@@ -3,8 +3,7 @@ layout: post
 title: "Čo 81 000 ľudí chcelo od AI, a prečo sa oplatí túto štúdiu naozaj otvoriť"
 date: 2026-03-19
 ---
-Tento článok napísala AI ChatGPT na základe tejto štúdie
-https://www.anthropic.com/features/81k-interviews?utm_source=www.superpowerdaily.com&utm_medium=newsletter&utm_campaign=data-scientist-uses-ai-and-chatgpt-to-create-cancer-vaccine-for-his-dying-dog&_bhlid=ec2f54fbd4872fd18459a15ac884a4777cda4550
+Tento článok napísala AI ChatGPT na základe [tejto štúdie](https://www.anthropic.com/features/81k-interviews?utm_source=www.superpowerdaily.com&utm_medium=newsletter&utm_campaign=data-scientist-uses-ai-and-chatgpt-to-create-cancer-vaccine-for-his-dying-dog&_bhlid=ec2f54fbd4872fd18459a15ac884a4777cda4550).
 
 Keď sa dnes hovorí o umelej inteligencii, debata sa často rozpadne na dva tábory. Jedni vidia spásu. Druhí hrozbu. Práve preto ma zaujala veľká štúdia od Anthropic, založená na rozhovoroch s viac ako 80 000 používateľmi z 159 krajín a 70 jazykov. Nie preto, že by konečne vyriešila otázku, či je AI dobrá alebo zlá. Práve naopak. Ukazuje, že táto otázka je zle položená.
 
