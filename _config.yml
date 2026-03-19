@@ -8,3 +8,5 @@ author: Roman Baranovic
 permalink: /:year/:month/:day/:title/
 
 markdown: kramdown
+
+google_analytics: G-M37R8EG602
