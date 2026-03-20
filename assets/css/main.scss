@@ -23,6 +23,11 @@ pre, pre code {
   line-height: 1.2 !important;
 }
 
+/* Test font size */
+html {
+  font-size: 20px !important;
+}
+
 /* Tradičný monospace font */
 pre, code, kbd, samp {
   font-family: "Courier New", Courier, monospace !important;
