@@ -2,6 +2,25 @@
 layout: single
 title: "Prekvapivá súvislosť medzi nástrojmi AI a aktívnym čítaním"
 date: 2026-03-20
+-
+categories:
+- AI vo vzdelávaní
+tags: 
+- AI
+- vzdelávanie
+- aktívne čítanie
+- digitálne učebnice
+- pedagogika
+- Pearson
+- štúdia
+- edTech
+- školstvo
+- študenti
+- výskum
+- čitateľská gramotnosť
+- kognitívne stratégie
+- technológia vo vzdelávaní
+excerpt: "Nová štúdia od výskumníkov Pearson skúmala viac než 79 miliónov interakcií študentov s AI nástrojom vstavaným do digitálnych učebníc. Zistili, že študenti, ktorí používali tento nástroj – určený na vysvetľovanie pojmov, sumarizovanie a precvičovanie s kvízmi – mali významne vyššiu pravdepodobnosť, že budú aktívne čítať, t. j. robiť si poznámky, klásť otázky a testovať svoje porozumenie. Efekt bol najvýraznejší u pôvodne pasívnych čitateľov. Výsledky naznačujú, že ak je AI správne navrhnutá a zabudovaná do učebného procesu, môže podporiť hlbšie zapojenie študentov do čítania, nie len ich pasivitu."
 ---
 Tento text vznikol ako prepis epizódy podcastu AI educator [The Surprising Link Between AI Tools and Active Reading](https://www.theaieducator.io/daily/episode/1f186626/the-surprising-link-between-ai-tools-and-active-reading)
 
