@@ -1,67 +1,63 @@
-text_skin: default
-highlight_theme: default
-url: "https://romanbaranovic.github.io"
 title: Digitálny školník
 description: Osobný blog o AI a digitálnom svete
-
-lang: sk
-timezone: Europe/Bratislava
-
-author:
-  type: person
-  name: Roman Baranovic
-  bio: Píšem o AI, technológiách a digitálnom svete.
-  github: romanbaranovic
-
-repository: romanbaranovic/romanbaranovic.github.io
-repository_tree: main
-
-excerpt_separator: <!--more-->
-
-toc:
-  selectors: "h2,h3"
-
-paginate: 8
-paginate_path: /page:num
-
-search:
-  provider: default
-
-analytics:
-  provider: google
-  google:
-    tracking_id: G-M37R8EG602
-    anonymize_ip: false
+url: "https://romanbaranovic.github.io"
+minimal_mistakes_skin: default
+search: true
 
 markdown: kramdown
-highlighter: rouge
-permalink: /:year/:month/:day/:title/
+remote_theme: mmistakes/minimal-mistakes
 
-exclude:
-  - CHANGELOG.md
-  - HOW_TO_RELEASE.md
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - jekyll-text-theme.gemspec
-  - package.json
-  - /docs
-  - /node_modules
-  - /screenshots
-  - /test
-  - /vendor
+permalink: /:year/:month/:day/:title/
+paginate: 5
+paginate_path: /page:num/
+timezone: Europe/Bratislava
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+author:
+  name: Roman Baranovic
+  bio: "Píšem o AI, technológiách a digitálnom svete."
+  github: romanbaranovic
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/romanbaranovic"
 
 defaults:
   - scope:
       path: ""
       type: posts
     values:
-      layout: article
-      aside:
-        toc: true
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+analytics:
+  provider: google
+  google:
+    tracking_id: G-M37R8EG602
