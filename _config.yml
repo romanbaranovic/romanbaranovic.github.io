@@ -1,22 +1,63 @@
 title: Digitálny školník
-description: Osobný blog
+description: Osobný blog o AI a digitálnom svete
 url: "https://romanbaranovic.github.io"
+minimal_mistakes_skin: default
+search: true
+
+markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
+permalink: /:year/:month/:day/:title/
+paginate: 5
+paginate_path: /page:num/
+timezone: Europe/Bratislava
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
 
 author:
   name: Roman Baranovic
+  bio: "Píšem o AI, technológiách a digitálnom svete."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/romanbaranovic"
 
-permalink: /:year/:month/:day/:title/
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/romanbaranovic"
 
-markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 google_analytics: G-M37R8EG602
-
-minimal_mistakes_skin: default
-
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-remote-theme
-  - jekyll-include-cache
