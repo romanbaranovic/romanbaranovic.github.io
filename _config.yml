@@ -1,7 +1,7 @@
 title: Digitálny školník
 description: Osobný blog
 url: "https://romanbaranovic.github.io"
-remote_theme: kitian616/jekyll-TeXt-theme
+remote_theme: mmistakes/minimal-mistakes
 
 author:
   name: Roman Baranovic
@@ -12,11 +12,11 @@ markdown: kramdown
 
 google_analytics: G-M37R8EG602
 
-text_skin: default
-highlight_theme: default
+minimal_mistakes_skin: default
 
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+  - jekyll-include-cache
