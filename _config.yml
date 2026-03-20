@@ -32,6 +32,12 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/rombaran/"
+    - label: "Bluesky"
+      icon: "fas fa-fw fa-link"
+      url: "https://bsky.app/profile/rombaran.bsky.social"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.social/@rombaran"
 
 comments:
   provider: "giscus"
