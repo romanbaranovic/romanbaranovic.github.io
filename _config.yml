@@ -66,5 +66,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-
-remote_theme: kitian616/jekyll-TeXt-theme
