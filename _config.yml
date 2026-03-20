@@ -1,19 +1,58 @@
-title: Digitálny školník
-description: Osobný blog o AI a digitálnom svete
-url: "https://romanbaranovic.github.io"
-minimal_mistakes_skin: default
-search: true
-
-markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
-permalink: /:year/:month/:day/:title/
-paginate: 5
-paginate_path: /page:num/
-timezone: Europe/Bratislava
+minimal_mistakes_skin: "dirt"
 
-include:
-  - _pages
+locale: "sk-SK"
+title: "Digitálny školník"
+title_separator: "-"
+subtitle: "Osobný blog o AI a digitálnom svete"
+name: "Roman Baranovic"
+description: "Osobný blog o AI a digitálnom svete"
+url: "https://romanbaranovic.github.io"
+baseurl: ""
+repository: "romanbaranovic/romanbaranovic.github.io"
+
+breadcrumbs: true
+
+search: true
+search_full_content: true
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+author:
+  name: "Roman Baranovic"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Píšem o AI a digitálnom svete."
+  location: "Slovensko"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/DOPLNTE"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/DOPLNTE"
+
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id: "R_kgDORo29pg"
+    category_name: "General"
+    category_id: "DIC_kwDORo29ps4C44sg"
+    discussion_term: "pathname"
+    reactions_enabled: "1"
+    theme: "light"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-M37R8EG602"
+    anonymize_ip: true
+
+paginate: 8
+paginate_path: /page:num/
+
+timezone: Europe/Bratislava
 
 plugins:
   - jekyll-paginate
@@ -22,16 +61,15 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-author:
-  name: Roman Baranovic
-  bio: "Píšem o AI, technológiách a digitálnom svete."
-  github: romanbaranovic
+include:
+  - _pages
 
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/romanbaranovic"
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 defaults:
   - scope:
@@ -41,33 +79,15 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      comments: true
       share: true
       related: true
+      toc: true
+      toc_sticky: true
+      show_date: true
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
-comments:
-  provider: giscus
-  giscus:
-    repo_id: R_kgDORo29pg
-    category_name: General
-    category_id: DIC_kwDORo29ps4C44sg
-    discussion_term: pathname
-    reactions_enabled: 1
-    theme: light
-
-analytics:
-  provider: google
-  google:
-    tracking_id: G-M37R8EG602
