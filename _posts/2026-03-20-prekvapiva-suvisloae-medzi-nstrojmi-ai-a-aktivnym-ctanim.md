@@ -553,37 +553,20 @@ konkrétneho produktového smeru Pearsonu
 ```
 
 Legenda symbolov:
-
 [E] explicitne v texte
-
 [I] rozumná inferencia
-
 [A] analytický súd modelu
-
 [!] predpoklad bez dosť silného zdôvodnenia
-
 [→] praktický záver autora
-
 [⚡] kľúčový argument alebo zlom
-
 [~] analyticky slabšie miesto
-
 [☠️?] možný logický problém
-
 [📖] príbeh, analógia, historický príklad, ilustrácia
-
-
 
 ## **VERDIKT**
 
-
-
 Ako mapa sveta má text vysokú hodnotu. Dáva dobrý rámec, ako rozmýšľať o AI pri učení cez dizajn nástroja, nie cez abstraktné debaty. Ako presviedčanie je silný, ale treba držať brzdu pri kauzálnych implikáciách, lebo samotný text priznáva, že dokazuje asociácie, nie príčinu. 
 
-
-
 ## **ODOMKNI ĎALŠIU ÚROVEŇ**
-
-
 
 Keď ty sám používaš AI pri čítaní alebo štúdiu, používaš ju skôr na Explain, Summarize, alebo Practice, a pri ktorom z tých troch najčastejšie cítiš, že za teba začína rozmýšľať namiesto toho, aby ťa nútila rozmýšľať?
