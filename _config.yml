@@ -1,63 +1,70 @@
+text_skin: default
+highlight_theme: default
+url: "https://romanbaranovic.github.io"
 title: Digitálny školník
 description: Osobný blog o AI a digitálnom svete
-url: "https://romanbaranovic.github.io"
-minimal_mistakes_skin: default
-search: true
 
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-
-permalink: /:year/:month/:day/:title/
-paginate: 5
-paginate_path: /page:num/
+lang: sk
 timezone: Europe/Bratislava
 
-include:
-  - _pages
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
 author:
+  type: person
   name: Roman Baranovic
-  bio: "Píšem o AI, technológiách a digitálnom svete."
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/romanbaranovic"
+  bio: Píšem o AI, technológiách a digitálnom svete.
+  github: romanbaranovic
 
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/romanbaranovic"
+repository: romanbaranovic/romanbaranovic.github.io
+repository_tree: main
+
+excerpt_separator: <!--more-->
+
+toc:
+  selectors: "h2,h3"
+
+paginate: 8
+paginate_path: /page:num
+
+search:
+  provider: default
+
+analytics:
+  provider: google
+  google:
+    tracking_id: G-M37R8EG602
+    anonymize_ip: false
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+exclude:
+  - CHANGELOG.md
+  - HOW_TO_RELEASE.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - jekyll-text-theme.gemspec
+  - package.json
+  - /docs
+  - /node_modules
+  - /screenshots
+  - /test
+  - /vendor
 
 defaults:
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      share: true
-      related: true
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+      layout: article
+      aside:
+        toc: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
 
-google_analytics: G-M37R8EG602
+remote_theme: kitian616/jekyll-TeXt-theme

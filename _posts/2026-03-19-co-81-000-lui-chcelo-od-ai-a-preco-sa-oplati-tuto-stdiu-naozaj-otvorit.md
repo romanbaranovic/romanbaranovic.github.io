@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: article
 title: "Čo 81 000 ľudí chcelo od AI, a prečo sa oplatí túto štúdiu naozaj otvoriť"
 date: 2026-03-19
 ---
