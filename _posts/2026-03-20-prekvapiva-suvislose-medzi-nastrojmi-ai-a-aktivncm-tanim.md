@@ -1,5 +1,5 @@
   ---
-layout: post
+layout: single
 title: "blog- Prekvapivá súvislosť medzi nástrojmi AI a aktívnym čítaním"
 date: 20 Mar 2026
 
