@@ -2,7 +2,6 @@
 layout: single
 title: "Prekvapivá súvislosť medzi nástrojmi AI a aktívnym čítaním"
 date: 2026-03-20
--
 categories:
 - AI vo vzdelávaní
 tags: 
