@@ -1,0 +1,19 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/dirt";
+@import "minimal-mistakes";
+
+/* Svetlé pozadie pre code bloky */
+.highlight, pre.highlight, div.highlight {
+  background: #f8f8f8 !important;
+  color: #333 !important;
+}
+
+code {
+  background: #f0f0f0 !important;
+  color: #333 !important;
+}
