@@ -57,6 +57,16 @@ tag_archive:
   type: liquid
   path: /tags/
 
+comments:
+  provider: giscus
+  giscus:
+    repo_id: R_kgDORo29pg
+    category_name: General
+    category_id: DIC_kwDORo29ps4C44sg
+    discussion_term: pathname
+    reactions_enabled: 1
+    theme: light
+
 analytics:
   provider: google
   google:
