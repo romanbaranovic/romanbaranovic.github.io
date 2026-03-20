@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Čínski rodičia ponechávajú domácu prácu s deťmi na umelú inteligenciu"
 date: 2026-03-15
 ---
