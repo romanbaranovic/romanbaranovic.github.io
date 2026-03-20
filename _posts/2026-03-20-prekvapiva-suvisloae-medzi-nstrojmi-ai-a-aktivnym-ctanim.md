@@ -233,3 +233,357 @@ Text má hodnotu ako kvalitný rozcestník k zaujímavej štúdii — ak ťa té
 ## ODOMKNI ĎALŠIU ÚROVEŇ
 
 Používaš alebo zvažuješ nejaký konkrétny AI nástroj vo výučbe alebo pri vlastnom učení — a ak áno, podnecuje ťa _klásť otázky a testovať sa_, alebo ti predovšetkým _generuje odpovede_?
+
+## Mindmapa samotnej štúdie ##
+
+```
+==============================================================
+| AI nástroj v eTextbooku môže posúvať študentov k aktívnemu |
+| čítaniu, ak je navrhnutý ako sprievodca čítaním, nie       |
+| ako skratka k odpovediam                                   |
+==============================================================
+Anchor: Text analyzuje milióny interakcií študentov s Pearson
+eTextbookom a vstavaným AI study toolom. Skúma, či použitie
+tohto nástroja súvisí s posunom od pasívneho k aktívnemu čítaniu.
+│
+├── [E][⚡] Hlavná téza a výsledný claim autora
+│   ├── [E] AIST súvisí s udržaním alebo zlepšením čitateľskej
+│   │   angažovanosti smerom k aktívnym režimom
+│   ├── [E] V standalone eTextbooku bol jednorazový používateľ
+│   │   3.1x pravdepodobnejšie Active Reader
+│   ├── [E] V standalone eTextbooku bol opakovaný používateľ
+│   │   3.5x pravdepodobnejšie Active Reader
+│   ├── [E] V courseware-embedded prostredí boli efekty väčšie
+│   │   než v standalone prostredí
+│   ├── [E] V embedded prostredí bol first-time user 23x
+│   │   pravdepodobnejšie Active Reader
+│   ├── [E] V embedded prostredí bol repeat user 24x
+│   │   pravdepodobnejšie Active Reader
+│   └── [A][~] Najsilnejší presviedčací motor textu je kontrast
+│       proti častej obave, že AI oslabuje učenie
+│
+├── [E] Problém, z ktorého text vychádza
+│   ├── [E] Čítanie je kľúčové pre úspech vo vysokoškolskom
+│   │   vzdelávaní
+│   ├── [E] Vyše 80 percent vysokoškolských úloh vyžaduje čítanie
+│   ├── [E] Porozumenie textu silno predikuje výkon v akademických
+│   │   úlohách aj GPA na začiatku VŠ
+│   ├── [E] Fakulty hlásia slabšiu pripravenosť prvákov na close
+│   │   reading a analýzu
+│   ├── [E] ACT Reading benchmark klesol z 44 percent v roku 2021
+│   │   na 39 percent v roku 2025
+│   ├── [E] Podiel žiakov pod hranicou porozumenia komplexným
+│   │   textom stúpol z 55 percent na 58 percent
+│   ├── [E][📖] Rámec "learn to read" verzus "read to learn"
+│   │   slúži ako prechod od školskej gramotnosti k vysokoškolskej
+│   │   samoregulácii
+│   ├── [E] Na VŠ nestačí dekódovať slová a syntax
+│   ├── [E] Úspešný čitateľ musí regulovať vlastné procesy,
+│   │   motiváciu a stratégie počas čítania
+│   ├── [E] Medzi aktívne stratégie patria poznámky, highlighty,
+│   │   podčiarkovanie a kladenie otázok
+│   ├── [E] Aktívne čítanie sa spája s lepším uchovaním informácií
+│   │   a lepším výkonom v skúškach
+│   └── [A] Text si tu buduje silný problémový rámec. Najprv ukáže,
+│       že čítanie je dôležité, potom že študenti v ňom slabnú
+│
+├── [E] Ako text definuje "active reading"
+│   ├── [E] Ide o learning science koncept
+│   ├── [E] Zahŕňa highlightovanie, zapisovanie poznámok,
+│   │   kladenie objasňujúcich otázok a retrieval practice
+│   ├── [E] Tieto správania sú spojené s hlbším porozumením,
+│   │   retenciou a výkonom
+│   ├── [E] Čítanie sa modeluje ako kontinuum od pasívneho
+│   │   po aktívne
+│   ├── [E] Pasívne čítanie = čítanie alebo audio bez ďalšej
+│   │   digitálnej práce
+│   ├── [E] Intencionálne čítanie = manipulácia s textom,
+│   │   ktorá signalizuje účelové spracovanie
+│   ├── [E] Aktívne čítanie = tvorba významu, testovanie
+│   │   porozumenia, revízia anotácií
+│   ├── [E] Search a navigácia bez následnej študijnej akcie
+│   │   sa nerátajú ako analyzované reading behaviors
+│   └── [A] Táto definícia je jadro celej štúdie. Ak ju zmeníš,
+│       zmení sa aj výsledok
+│
+├── [E] Kontext AI, do ktorého text vstupuje
+│   ├── [E] Po nástupe ChatGPT explodoval výskum LLM pre učenie
+│   ├── [E] Doterajšie dôkazy sú zmiešané
+│   ├── [E][📖] Wharton štúdia slúži ako varovanie, že AI
+│   │   používané na získanie odpovedí môže škodiť dlhodobému
+│   │   učeniu
+│   ├── [E][📖] Analýza Claude konverzácií slúži ako varovanie
+│   │   pred cognitive offloadingom
+│   ├── [E] Autor tvrdí, že výsledky sú povzbudivejšie, keď je AI
+│   │   zmysluplne integrovaná do procesu učenia
+│   ├── [E][📖] Štúdia Maiti a Goel sa používa ako príklad rastu
+│   │   higher-order questioning
+│   ├── [E][📖] Štúdia s reading companion chatbotom sa používa
+│   │   ako príklad lepšej motivácie k čítaniu
+│   ├── [E] Učitelia aj študenti majú zmiešané postoje, vidia
+│   │   príležitosti aj riziká
+│   └── [A][⚡] Tu text robí kľúčový obrat. Neobhajuje AI všeobecne,
+│       ale tvrdí, že rozhoduje dizajn použitia
+│
+├── [E] Čo presne je skúmaný AIST
+│   ├── [E] Nástroj bol zavedený na jeseň 2024
+│   ├── [E] Je vložený priamo do eTextbook aplikácie
+│   ├── [E] Neopiera sa o voľné generovanie z otvoreného webu
+│   ├── [E] Prioritizuje publisher-approved a expert-vetted obsah
+│   ├── [E] Používa RAG proces
+│   ├── [E] Odpovede sú napojené na konkrétny textbook a tému
+│   ├── [E] Výstupy sú štruktúrované podľa learning science
+│   │   best practices
+│   ├── [E] Formátuje odpovede krátko a v bodoch
+│   ├── [E] Má tri hlavné funkcie
+│   │   ├── [E] Explain, podnecuje otázky počas čítania
+│   │   ├── [E] Summarize, dáva krátke zhrnutie pred čítaním
+│   │   └── [E] Practice, generuje otázky na self-test po čítaní
+│   ├── [E][→] Autorov dizajnový záver je, že AI má podporovať
+│   │   monitoring porozumenia, prípravu a retrieval
+│   └── [A] Text tým nepriamo tvrdí, že "responsible AI" nie je
+│       len bezpečnosť, ale aj pedagogická architektúra
+│
+├── [E] Výskumná otázka a hypotéza
+│   ├── [E] Hypotéza, študenti používajúci AIST sa stanú
+│   │   aktívnejšími čitateľmi
+│   ├── [E] Výskumná otázka, ako AIST usage súvisí s reading
+│   │   engagement definovaným ako active reading behaviors
+│   └── [A] Hypotéza je jasná a merateľná. To zvyšuje analytickú
+│       čistotu textu
+│
+├── [E] Metodológia a architektúra dôkazu
+│   ├── [E] Dáta pochádzajú z Fall 2024 a Spring 2025
+│   ├── [E] Sledujú sa dve prostredia
+│   │   ├── [E] standalone Pearson eTextbook
+│   │   └── [E] MyLab & Mastering embedded eTextbook
+│   ├── [E] Tieto prostredia sa analyzujú oddelene
+│   ├── [E][📖] Dôvod oddelenia je dôležitý príbeh kontextu
+│   │   používania
+│   │   ├── [E] standalone = self-directed study správanie
+│   │   └── [E] embedded = časť instructor-led práce na kurze
+│   ├── [E] Embedded prostredie môže skrývať čitateľa, ktorý je
+│   │   aktívny v úlohách, ale pasívny v čítaní
+│   ├── [E] Do vzorky šli iba Spring 2025 eTextbook users
+│   ├── [E] Session musela trvať aspoň 3 minúty
+│   ├── [E] Kratšie sessions boli vylúčené
+│   ├── [E] Vzorka pokrývala asi 690 titulov z rôznych disciplín
+│   ├── [E] Filtrácia pre efekt AIST mala 3 kroky
+│   │   ├── [E] len Spring returners, aby bol baseline vo Fall
+│   │   ├── [E] len tituly, ktoré AIST mali
+│   │   └── [E] vylúčení Fall AIST users, aby Fall slúžil ako
+│   │       baseline
+│   ├── [E] Finálna vzorka mala asi 45 517 standalone users
+│   ├── [E] Finálna vzorka mala asi 347 097 embedded users
+│   ├── [E] AIST use sa delí na single use a repeat use
+│   ├── [E] AIST interakcie sa zámerne nerátali medzi reading
+│   │   behaviors
+│   ├── [E][⚡] Toto je metodologicky kritický bod
+│   │   └── [E] autor nechcel, aby samotné kliknutie na AI
+│   │       automaticky vyrobilo dojem aktívneho čítania
+│   ├── [E] Reading profiles sa tvorili cez Latent Class Analysis
+│   ├── [E] Použili sa indikátory passive, intentional, active,
+│   │   plus frekvencia a dĺžka sessions
+│   ├── [E] Vyšiel 3-class model
+│   ├── [E] Následne sa použila logistická regresia
+│   ├── [E] Kontroloval sa Fall 2024 reading profile
+│   ├── [E] Pridané boli interakčné termy medzi AIST use a Fall
+│   │   profile
+│   └── [A] Dizajn je rozumne silný na observačnú štúdiu, ale
+│       stále ostáva nekauzálny
+│
+├── [E] Čo presne sú 3 reading profily
+│   ├── [E] Standalone sample
+│   │   ├── [E] Passive Reader = 35 percent vzorky
+│   │   │   ├── [E] najnižšia aktivita, median 9 events
+│   │   │   ├── [E] 92 percent času v Passive mode
+│   │   │   └── [E] priemerne 12 minút, 1.4x týždenne
+│   │   ├── [E] Intentional Reader = 47 percent
+│   │   │   ├── [E] stredná aktivita, median 57 events
+│   │   │   ├── [E] 83 percent času v Passive mode
+│   │   │   ├── [E] vyššie audio a flashcards
+│   │   │   └── [E] 30 minút, 2.5x týždenne
+│   │   └── [E] Active Reader = 18 percent
+│   │       ├── [E] najvyššia aktivita, median 68 events
+│   │       ├── [E] 56 percent času Passive, 17 percent
+│   │       │   Intentional, 30 percent Active
+│   │       └── [E] 30 minút, 3x týždenne
+│   ├── [E] Embedded sample
+│   │   ├── [E] Passive Reader = 49 percent
+│   │   ├── [E] Intentional Reader = 45 percent
+│   │   ├── [E] Active Reader = 6 percent
+│   │   ├── [E] Celkovo menej reading events než v standalone
+│   │   └── [E] Menší podiel truly active readers
+│   ├── [I] Embedded prostredie vyzerá čitateľsky slabšie, lebo
+│   │   čítanie je tam len jedna časť širšieho kurzu
+│   └── [A] Táto časť je dôležitá, lebo ukazuje, že "active
+│       reading" nie je bežný default ani v digitálnom učebnom
+│       prostredí
+│
+├── [E] Hlavné výsledky pre standalone prostredie
+│   ├── [E] Interakčné termy neboli signifikantné
+│   ├── [E] Efekt AIST teda nezávisel od Fall profilu
+│   ├── [E] Single use súvisel s väčšou šancou byť Intentional
+│   │   Reader v Spring
+│   ├── [E] Single use súvisel s 3.1x väčšou šancou byť Active
+│   │   Reader v Spring
+│   ├── [E] Repeat use súvisel s 1.6x väčšou šancou byť
+│   │   Intentional Reader
+│   ├── [E] Repeat use súvisel s 3.5x väčšou šancou byť Active
+│   │   Reader
+│   ├── [E] Fall profile bol silný prediktor Spring profilu
+│   └── [A] Výsledok je presvedčivý najmä preto, že efekt vidno
+│       aj po kontrole baseline správania
+│
+├── [E] Hlavné výsledky pre embedded prostredie
+│   ├── [E] Tu už efekt AIST závisel od baseline profilu
+│   ├── [E] Viaceré interakčné termy boli signifikantné
+│   ├── [E] Efekt bol väčší pre Fall Passives než pre tých,
+│   │   čo už boli Intentional alebo Active
+│   ├── [E] Single use bol spojený s 2.2x väčšou šancou byť
+│   │   Intentional Reader
+│   ├── [E] Single use bol spojený s 23x väčšou šancou byť
+│   │   Active Reader
+│   ├── [E] Repeat use bol spojený s 2.4x väčšou šancou byť
+│   │   Intentional Reader
+│   ├── [E] Repeat use bol spojený s 24x väčšou šancou byť
+│   │   Active Reader
+│   ├── [E][⚡] Najsilnejší výsledok celého textu je, že v prostredí
+│   │   s nízkym baseline aktívneho čítania je efekt enormný
+│   └── [A][~] Obrovské násobky znejú silno, ale treba ich čítať
+│       v kontexte nízkej základnej miery Active Readers, iba 6
+│       percent v embedded vzorke
+│
+├── [E] Ako autor interpretuje výsledky
+│   ├── [E] AIST podľa autora "inspiruje" aktívnejšie módy čítania
+│   ├── [E] Aj jedno použitie posúva pravdepodobnosť
+│   ├── [E] Opakované použitie efekt násobí
+│   ├── [E] Silnejšie efekty u pasívnych baseline čitateľov sa
+│   │   vysvetľujú tým, že majú viac priestoru na rast
+│   ├── [E] Väčší celkový efekt v embedded prostredí sa vysvetľuje
+│   │   tým, že tam bolo viac baseline pasívnych čitateľov
+│   ├── [E] Autor výslovne varuje, aby sa active reading
+│   │   neextrapolovalo automaticky na active learning všeobecne
+│   ├── [E] V standalone prostredí je reading activity lepší
+│   │   signál širšieho učenia
+│   └── [E] V embedded prostredí je reading engagement len časť
+│       širšej angažovanosti v kurze
+│
+├── [E] Doplňujúci dôkaz z Explain feature
+│   ├── [E][📖] Autor vťahuje iný Pearson text o biology title
+│   │   ako ilustračný most k mechanizmu účinku
+│   ├── [E] Väčšina otázok bola na úrovni Remembering a
+│   │   Understanding
+│   ├── [E] 20 percent otázok bolo na úrovni Analyze a vyššie
+│   ├── [I] Explain feature teda neslúži len na pasívne
+│   │   dovysvetľovanie, ale občas aj na vyššie kognitívne operácie
+│   └── [A][~] Je to zaujímavé, ale nie je to priamy dôkaz
+│       mechanizmu v tejto štúdii, skôr doplnková podpora
+│
+├── [E] Limity, ktoré autor priznáva
+│   ├── [E][⚡] Selection bias nebol úplne kontrolovaný
+│   ├── [E] Študenti si AIST vyberali sami
+│   ├── [E] Používatelia a nepoužívatelia sa mohli líšiť v
+│   │   motivácii, sebavedomí alebo širšej angažovanosti
+│   ├── [E] Fall profile bol použitý ako kovariát, aby sa
+│   │   baseline rozdiely aspoň čiastočne zachytili
+│   ├── [E] Výsledky sa preto majú chápať ako asociácie,
+│   │   nie kauzálne dopady
+│   ├── [A][!] Text korektne priznáva limit, ale veľké časti
+│   │   diskusie aj tak používajú jazyk, ktorý znie takmer
+│   │   kauzálne, napríklad "inspires"
+│   └── [A][☠️?] Možný problém, post hoc kauzálna implikácia.
+│       Nie ako tvrdý klam, skôr tlak jazyka nad rámec dizajnu
+│
+├── [E] Čo chce autor skúmať ďalej
+│   ├── [E] Ako AIST a reading engagement súvisia s reading
+│   │   comprehension
+│   ├── [E] Ako súvisia s exam scores a final grades
+│   ├── [E][→] Potrebujeme jemnejšie pochopenie AI-mediated
+│   │   learning, nie plošné súdy za alebo proti AI
+│   └── [A] Text smeruje k ďalšiemu kroku. Chce prejsť od
+│       behaviorálnych proxy k tvrdším výsledkom učenia
+│
+├── [A] Čo text robí dobre analyticky
+│   ├── [A] Jasne oddeľuje všeobecné AI platformy od špecificky
+│   │   navrhnutého learning toolu
+│   ├── [A] Rozumne definuje operacionalizáciu reading engagement
+│   ├── [A] AIST nezapočítava ako reading behavior
+│   ├── [A] Opatrne rozdeľuje dva kontexty použitia
+│   ├── [A] Kontroluje baseline správanie cez Fall profile
+│   └── [A] Otvorene priznáva, že nejde o causal impact study
+│
+├── [A] Kde je text najzraniteľnejší
+│   ├── [A] Výberové skreslenie ostáva centrálna slabina
+│   ├── [A] Reading profile je konštrukt z klikstreamu, nie
+│   │   priame meranie porozumenia
+│   ├── [A] Obrovské odds ratio v embedded prostredí môžu
+│   │   vyzerať dramatickejšie, než ako pôsobia v absolútnych
+│   │   číslach
+│   ├── [A] Text neukazuje, či AI viedla k lepším známkam
+│   │   alebo hlbšiemu pochopeniu látky
+│   ├── [A] "Responsible AI" je v texte prakticky totožné s
+│   │   Pearsonovým konkrétnym dizajnom nástroja
+│   └── [A][!] Chýba silnejšia konkurencia alternatívnych
+│       vysvetlení, napríklad že AIST si otvárali už aj tak
+│       svedomitejší alebo zvedavejší študenti
+│
+└── [A] Meta vrstva
+├── [A] Komu je text určený
+│   ├── [A] edtech stratégom
+│   ├── [A] ľuďom vo higher education
+│   ├── [A] produktovým tímom AI learning tools
+│   └── [A] skeptikom, ktorí sa boja, že AI iba skracuje cestu
+├── [A] Čím presviedča
+│   ├── [A] veľkým objemom dát a kvantitatívnym jazykom
+│   ├── [A] kontrastom voči známym obavám z offloadingu
+│   ├── [A] pedagogickým framingom active reading
+│   └── [A] konkrétnymi effect size číslami
+├── [A] Kde je najsilnejší
+│   ├── [A] v metodickom rozhodnutí nepočítať AIST kliky
+│   │   ako dôkaz aktívneho čítania
+│   ├── [A] v oddelení self-directed a instructor-led kontextu
+│   └── [A] v poctivom priznaní, že ide o asociácie
+└── [A] Kde je najzraniteľnejší
+├── [A] v tlaku market-friendly interpretácie nad rámec
+│   observačného dizajnu
+├── [A] v nepriamej metrike učenia cez klikstream
+└── [A] v tom, že text je súčasne výskum aj obhajoba
+konkrétneho produktového smeru Pearsonu
+```
+
+Legenda symbolov:
+
+[E] explicitne v texte
+
+[I] rozumná inferencia
+
+[A] analytický súd modelu
+
+[!] predpoklad bez dosť silného zdôvodnenia
+
+[→] praktický záver autora
+
+[⚡] kľúčový argument alebo zlom
+
+[~] analyticky slabšie miesto
+
+[☠️?] možný logický problém
+
+[📖] príbeh, analógia, historický príklad, ilustrácia
+
+
+
+## **VERDIKT**
+
+
+
+Ako mapa sveta má text vysokú hodnotu. Dáva dobrý rámec, ako rozmýšľať o AI pri učení cez dizajn nástroja, nie cez abstraktné debaty. Ako presviedčanie je silný, ale treba držať brzdu pri kauzálnych implikáciách, lebo samotný text priznáva, že dokazuje asociácie, nie príčinu. 
+
+
+
+## **ODOMKNI ĎALŠIU ÚROVEŇ**
+
+
+
+Keď ty sám používaš AI pri čítaní alebo štúdiu, používaš ju skôr na Explain, Summarize, alebo Practice, a pri ktorom z tých troch najčastejšie cítiš, že za teba začína rozmýšľať namiesto toho, aby ťa nútila rozmýšľať?
