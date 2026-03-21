@@ -23,6 +23,18 @@ pre, pre code {
   line-height: 1.2 !important;
 }
 
+/* Share tlačidlá */
+.btn--bluesky {
+  background-color: #0085ff;
+  color: #fff !important;
+  &:hover { background-color: #006ecc; }
+}
+.btn--mastodon {
+  background-color: #6364ff;
+  color: #fff !important;
+  &:hover { background-color: #4b4cd4; }
+}
+
 /* Tradičný monospace font */
 pre, code, kbd, samp {
   font-family: "Courier New", Courier, monospace !important;
