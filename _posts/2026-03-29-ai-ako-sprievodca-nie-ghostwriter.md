@@ -6,7 +6,7 @@ categories: [AI vo vzdelávaní]
 tags: [AIvzdelavanie, ucenie, kritickemyslenie, skolskaprax, digitalnyskolnik]
 zdroj: https://donaldclarkplanb.blogspot.com/2026/03/ai-should-be-guide-not-ghostwriter.html
 header:
-image: /assets/images/ai-rebrik-ilustracia.png
+  image: /assets/images/ai-rebrik-ilustracia.png
 ---
 ### 1. Hlavná myšlienka
 
