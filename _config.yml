@@ -24,7 +24,7 @@ permalink: /:year/:month/:day/:title/
 author:
   name: "Roman Baranovic"
   avatar: "/assets/images/avatar.jpg"
-  bio: "Píšem o školách, vzdelávaní, AI vo vzdelávaní, edtechu a digitálnom svete."
+  bio: "Som digitálny školník. Píšem o školách, vzdelávaní, AI vo vzdelávaní, edtechu a digitálnom svete."
   location: "Slovensko"
   links:
     - label: "LinkedIn"
