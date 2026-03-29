@@ -29,6 +29,7 @@ Pri písaní esejí a zadaní môže AI veľmi ľahko nahradiť tú časť prác
 * Ak však AI pomáha so štartom, štruktúrou, kritikou, odhaľovaním slabín a otázkami, môže učenie podporiť.
 
 **V škole často padajú úlohy bez opory, bez štruktúry a bez procesu**
+
 Najväčšie nedorozumenie je predstava, že problém je iba v tom, že žiaci „podvádzajú s AI". Podľa autora je hlbší problém v tom, že škola často zadáva úlohy bez opory, bez štruktúry a bez procesu, takže žiak prirodzene siahne po skratke.
 Inak povedané: ak škola nastaví úlohu ako „odovzdaj text", AI sa stane náhradou práce. Ak ju nastaví ako proces myslenia, AI sa môže stať užitočným mentorom.
 
@@ -36,7 +37,7 @@ Inak povedané: ak škola nastaví úlohu ako „odovzdaj text", AI sa stane ná
 
 ### Čo to znamená pre učiteľa
 
-Tento článok je pre učiteľa dôležitý najmä tam, kde žiaci majú niečo vytvoriť sami:
+Ako má učiteľ postupovať v prípade, kde žiaci majú niečo vytvoriť sami:
 
 * esej alebo sloh,
 * seminárna práca,
@@ -45,7 +46,7 @@ Tento článok je pre učiteľa dôležitý najmä tam, kde žiaci majú niečo 
 * reflexia po prečítaní knihy alebo článku,
 * domáca úloha, kde má žiak vysvetliť svoj názor.
 
-**Kde sa to deje v praxi**
+**Čo sa potom deje v "praxi"**
 
 * Žiak nevie, ako začať, tak zadá tému AI a nechá si vygenerovať osnovu aj celý text.
 * Žiak odovzdá výborne znejúci text, ale pri rozhovore nevie obhájiť základné tvrdenia.
@@ -53,8 +54,9 @@ Tento článok je pre učiteľa dôležitý najmä tam, kde žiaci majú niečo 
 * Naopak, ak učiteľ AI zapojí dobre, žiak ju použije na to, aby našiel slabé miesta, spresnil argument a lepšie pochopil zdroje.
 
 **Prečo je to problém práve v triede**
+
 Pretože škola často hodnotí finálny výstup, nie proces myslenia. A práve tam AI vie vytvoriť falošný dojem zvládnutej práce.
-Článok preto nepriamo hovorí učiteľovi: nepozeraj sa len na to, **čo žiak odovzdal**, ale aj na to, **ako k tomu došiel**.
+Základná správa pre učiteľa je: nepozeraj sa len na to, **čo žiak odovzdal**, ale aj na to, **ako k tomu došiel**.
 
 ---
 
