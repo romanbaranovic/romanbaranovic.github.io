@@ -31,7 +31,7 @@ Dnes sa pozrieme na výskumnú správu s názvom _Quantitative Analysis of How R
 
 Štúdia zaujíma obzvlášť zaujímavý prístup. Namiesto dotazníkov či sebahodnotenia výskumníci analyzovali skutočné správanie študentov — konkrétne viac ako 79 miliónov interakcií v rámci digitálnych učebnicových platforiem Pearson. Tento rozsah je dôležitý, pretože výskum vo vzdelávaní sa často spolieha na malé triedne experimenty. Tu hovoríme o behaviorálnych dátach stoviek tisíc študentov a stoviek učebníc.
 
-Tento text napísala AI Claude. Tento text vznikol ako prepis epizódy podcastu AI educator [The Surprising Link Between AI Tools and Active Reading](https://www.theaieducator.io/daily/episode/1f186626/the-surprising-link-between-ai-tools-and-active-reading)
+Tento text napísala AI Claude ako prepis epizódy podcastu AI educator [The Surprising Link Between AI Tools and Active Reading](https://www.theaieducator.io/daily/episode/1f186626/the-surprising-link-between-ai-tools-and-active-reading)
 
 V texte sa odkazuje na štúdiu [Pearson](https://plc.pearson.com/sites/pearson-corp/files/2026-02/ai-active-reading-feb-2026.pdf)
 
