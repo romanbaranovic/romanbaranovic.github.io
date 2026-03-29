@@ -9,6 +9,7 @@ subtitle: "O školách, vzdelávaní, AI a edtechу"
 name: "Roman Baranovic"
 description: "Píšem o školách, vzdelávaní, AI vo vzdelávaní, edtechu a digitálnom svete."
 url: "https://romanbaranovic.github.io"
+og_image: "/assets/images/avatar.jpg"
 baseurl: ""
 repository: "romanbaranovic/romanbaranovic.github.io"
 
