@@ -6,37 +6,34 @@ categories: [AI vo vzdelávaní]
 tags: [AIvzdelavanie, ucenie, kritickemyslenie, skolskaprax, digitalnyskolnik]
 zdroj: https://donaldclarkplanb.blogspot.com/2026/03/ai-should-be-guide-not-ghostwriter.html
 header:
-  image: /assets/images/ai-rebrik-ilustracia.png
+image: /assets/images/ai-rebrik-ilustracia.png
 ---
-### 1. Hlavná myšlienka
-
 AI má v škole pomáhať žiakovi premýšľať, nie premýšľať za neho.
 Riešením nie je zákaz AI, ale dať jej v procese učenia správne miesto: ako sprievodcu, kritika a oporu, nie ako výrobcu hotového textu.
 
-Tento článok napísala pod mojou taktovkou umelá inteligencia Chatgpt na základe textu v anglickom jazyku https://donaldclarkplanb.blogspot.com/2026/03/ai-should-be-guide-not-ghostwriter.html
+Tento článok napísala pod mojou taktovkou umelá inteligencia Chatgpt na základe textu v anglickom jazyku [AI should be the Guide, not the Ghostwriter](https://donaldclarkplanb.blogspot.com/2026/03/ai-should-be-guide-not-ghostwriter.html)
 
 ---
 
-### 2. Ako autor rozmýšľa
+### AI nemá rozmýšať za dieťa
 
-**Problém, ktorý rieši**
-Autor rieši to, že pri písaní esejí a zadaní môže AI veľmi ľahko nahradiť tú časť práce, v ktorej sa žiak reálne učí. Výsledok potom vyzerá kompetentne, ale učenie sa nemuselo odohrať.
+Pri písaní esejí a zadaní môže AI veľmi ľahko nahradiť tú časť práce, v ktorej sa žiak reálne učí. Výsledok potom vyzerá kompetentne, ale "učenie sa" neprebehlo.
 
 **Kľúčové argumenty**
 
-* Žiaci sa často spoliehajú na rereading, zvýrazňovanie a pasívne prijímanie textu, hoci to nevedie k hlbokému učeniu.
+* Žiaci sa často spoliehajú na opätovné čítanie, zvýrazňovanie a pasívne prijímanie textu, hoci to nevedie k hlbokému učeniu.
 * Učenie potrebuje **generačnú činnosť**: žiak musí sám formulovať, skladať argument, vypĺňať medzery, prepájať poznatky.
-* To, čo bolí v krátkodobom horizonte, často prináša dlhodobý zisk. Autor to stavia na princípe **žiadúcej náročnosti**.
+* To, čo bolí v krátkodobom horizonte, často prináša dlhodobý zisk. Autor to v pôvodnom článku stavia na princípe **žiadúcej náročnosti**.
 * Ak AI preberie samotné generovanie riešenia, žiak prichádza o jadro učenia.
 * Ak však AI pomáha so štartom, štruktúrou, kritikou, odhaľovaním slabín a otázkami, môže učenie podporiť.
 
-**Čo považuje za najväčšie nedorozumenie**
+**V škole často padajú úlohy bez opory, bez štruktúry a bez procesu**
 Najväčšie nedorozumenie je predstava, že problém je iba v tom, že žiaci „podvádzajú s AI". Podľa autora je hlbší problém v tom, že škola často zadáva úlohy bez opory, bez štruktúry a bez procesu, takže žiak prirodzene siahne po skratke.
 Inak povedané: ak škola nastaví úlohu ako „odovzdaj text", AI sa stane náhradou práce. Ak ju nastaví ako proces myslenia, AI sa môže stať užitočným mentorom.
 
 ---
 
-### 3. Čo to znamená pre učiteľa
+### Čo to znamená pre učiteľa
 
 Tento článok je pre učiteľa dôležitý najmä tam, kde žiaci majú niečo vytvoriť sami:
 
@@ -60,9 +57,9 @@ Pretože škola často hodnotí finálny výstup, nie proces myslenia. A práve 
 
 ---
 
-### 4. Ako to použiť v triede
+### Ako to použiť v praxi v triede
 
-Tu je jednoduchý postup, ktorý môžeš použiť prakticky hneď pri eseji, úvahe alebo projektovej úlohe.
+Tu je jednoduchý postup, ktorý môže učiteľ použiť prakticky hneď pri eseji, úvahe alebo projektovej úlohe.
 
 **Krok 1: Žiak začne sám**
 Najprv nesmie ísť hneď do AI.
@@ -120,7 +117,7 @@ Tým sa AI stáva súčasťou učenia, nie len skratkou k výsledku.
 
 ---
 
-### 5. Ako to pokaziť
+### Ako to pokaziť
 
 **Najčastejšie chyby učiteľa**
 
@@ -146,7 +143,7 @@ Tým sa AI stáva súčasťou učenia, nie len skratkou k výsledku.
 
 ---
 
-### 6. Bonus: konkrétne zadanie pre žiakov
+### Bonus: konkrétne zadanie pre žiakov
 
 **Ukážková aktivita:** Argumentačný text s AI ako kritikom
 
@@ -167,6 +164,6 @@ Rozsah: 250 až 400 slov
 
 ---
 
-### 7. Jedna veta na zapamätanie
+### Jedna veta na zapamätanie
 
 AI má v škole držať rebrík, nie liezť po ňom namiesto žiaka.
