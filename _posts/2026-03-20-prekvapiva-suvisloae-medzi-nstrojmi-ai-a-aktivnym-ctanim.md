@@ -21,17 +21,19 @@ tags:
 - technológia vo vzdelávaní
 excerpt: "Nová štúdia od výskumníkov Pearson skúmala viac než 79 miliónov interakcií študentov s AI nástrojom vstavaným do digitálnych učebníc. Zistili, že študenti, ktorí používali tento nástroj – určený na vysvetľovanie pojmov, sumarizovanie a precvičovanie s kvízmi – mali významne vyššiu pravdepodobnosť, že budú aktívne čítať, t. j. robiť si poznámky, klásť otázky a testovať svoje porozumenie. Efekt bol najvýraznejší u pôvodne pasívnych čitateľov. Výsledky naznačujú, že ak je AI správne navrhnutá a zabudovaná do učebného procesu, môže podporiť hlbšie zapojenie študentov do čítania, nie len ich pasivitu."
 ---
-Tento text vznikol ako prepis epizódy podcastu AI educator [The Surprising Link Between AI Tools and Active Reading](https://www.theaieducator.io/daily/episode/1f186626/the-surprising-link-between-ai-tools-and-active-reading)
 
-V texte sa odkazuje na štúdiu [Pearson](https://plc.pearson.com/sites/pearson-corp/files/2026-02/ai-active-reading-feb-2026.pdf)
-
-Text napísala AI Claude
+![03 aktivne citanie-600px.png](/assets/images/03 aktivne citanie-600px.png)
+ 
 
 ## Prekvapivá súvislosť medzi nástrojmi AI a aktívnym čítaním ##
 
 Dnes sa pozrieme na výskumnú správu s názvom _Quantitative Analysis of How Responsible AI Study Tools Promote Active Reading_, ktorú vypracovali Dr. Laura Southard a Dr. Emily Lai v divízii výskumu a vývoja spoločnosti Pearson. Správa sa zaoberá otázkou, ktorá stojí priamo v centre debaty o AI vo vzdelávaní: robí generatívna AI zo študentov pasívnejších žiakov, alebo môže naopak podporiť hlbšie zapojenie?
 
 Štúdia zaujíma obzvlášť zaujímavý prístup. Namiesto dotazníkov či sebahodnotenia výskumníci analyzovali skutočné správanie študentov — konkrétne viac ako 79 miliónov interakcií v rámci digitálnych učebnicových platforiem Pearson. Tento rozsah je dôležitý, pretože výskum vo vzdelávaní sa často spolieha na malé triedne experimenty. Tu hovoríme o behaviorálnych dátach stoviek tisíc študentov a stoviek učebníc.
+
+Tento text napísala AI Claude. Tento text vznikol ako prepis epizódy podcastu AI educator [The Surprising Link Between AI Tools and Active Reading](https://www.theaieducator.io/daily/episode/1f186626/the-surprising-link-between-ai-tools-and-active-reading)
+
+V texte sa odkazuje na štúdiu [Pearson](https://plc.pearson.com/sites/pearson-corp/files/2026-02/ai-active-reading-feb-2026.pdf)
 
 ---
 
@@ -55,7 +57,7 @@ Výskumníci skúmali AI nástroj priamo zabudovaný do digitálnych učebníc P
 
 Nástroj poskytuje tri hlavné funkcie:
 
-- **Vysvětli** — študenti môžu klásť otázky o texte, aby si objasnili porozumenie
+- **Vysvetli** — študenti môžu klásť otázky o texte, aby si objasnili porozumenie
 - **Zhrň** — generuje krátke bodové zhrnutia sekcií pred čítaním alebo po ňom
 - **Precvič** — generuje kvízové otázky, ktoré pomáhajú otestovať porozumenie
 
