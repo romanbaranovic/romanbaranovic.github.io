@@ -5,9 +5,9 @@ date: 2026-03-29
 categories: [AI vo vzdelávaní]
 tags: [AIvzdelavanie, ucenie, kritickemyslenie, skolskaprax, digitalnyskolnik]
 zdroj: https://donaldclarkplanb.blogspot.com/2026/03/ai-should-be-guide-not-ghostwriter.html
----
-![AI rebrík ilustrácia](https://drive.google.com/uc?id=1oPWHvJOF76Jxdw-2UKAbe1cOkmsoKENV)
 
+---
+![[ai rebrik-600px.png]]
 AI má v škole pomáhať žiakovi premýšľať, nie premýšľať za neho.
 Riešením nie je zákaz AI, ale dať jej v procese učenia správne miesto: ako sprievodcu, kritika a oporu, nie ako výrobcu hotového textu.
 
