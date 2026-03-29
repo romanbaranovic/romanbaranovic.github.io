@@ -8,12 +8,12 @@ zdroj: https://donaldclarkplanb.blogspot.com/2026/03/ai-should-be-guide-not-ghos
 header:
 image: /assets/images/ai-rebrik-ilustracia.png
 ---
-Tento článok napísala pod mojou taktovkou umelá inteligencia Chatgpt na základe textu v anglickom jazyku https://donaldclarkplanb.blogspot.com/2026/03/ai-should-be-guide-not-ghostwriter.html
-
 ### 1. Hlavná myšlienka
 
 AI má v škole pomáhať žiakovi premýšľať, nie premýšľať za neho.
-V pôvodnom článku autor nehovorí o zákaze AI, ale pomenováva jej presné miesto: ako sprievodcu, kritika a oporu v procese učenia, nie ako výrobcu hotového textu.
+Riešením nie je zákaz AI, ale dať jej v procese učenia správne miesto: ako sprievodcu, kritika a oporu, nie ako výrobcu hotového textu.
+
+Tento článok napísala pod mojou taktovkou umelá inteligencia Chatgpt na základe textu v anglickom jazyku https://donaldclarkplanb.blogspot.com/2026/03/ai-should-be-guide-not-ghostwriter.html
 
 ---
 
