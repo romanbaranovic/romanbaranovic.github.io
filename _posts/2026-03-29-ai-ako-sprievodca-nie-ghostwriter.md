@@ -8,6 +8,7 @@ zdroj: https://donaldclarkplanb.blogspot.com/2026/03/ai-should-be-guide-not-ghos
 
 ---
 ![ai rebrik-600px.png](/assets/images/ai rebrik-600px.png)
+
 AI má v škole pomáhať žiakovi premýšľať, nie premýšľať za neho.
 Riešením nie je zákaz AI, ale dať jej v procese učenia správne miesto: ako sprievodcu, kritika a oporu, nie ako výrobcu hotového textu.
 
