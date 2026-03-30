@@ -172,7 +172,7 @@ Rozsah: 250 až 400 slov
 
 AI má v škole držať rebrík, nie liezť po ňom namiesto žiaka.
 
-## Mindmapa pôvodného článku
+### Mindmapa pôvodného článku
 ```
 ========================================
 | HLAVNÁ TÉZA AUTORA                   |
