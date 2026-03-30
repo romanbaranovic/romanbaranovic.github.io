@@ -171,3 +171,245 @@ Rozsah: 250 až 400 slov
 ### Jedna veta na zapamätanie
 
 AI má v škole držať rebrík, nie liezť po ňom namiesto žiaka.
+
+## Mindmapa pôvodného článku
+```
+========================================
+| HLAVNÁ TÉZA AUTORA                   |
+========================================
+AI má byť v učení sprievodca, nie ghostwriter.
+Anchor: Text tvrdí, že hlavná hodnota esejí a úloh nie je v hotovom
+výstupe, ale v náročnom procese generovania myslenia. AI je prínosná,
+ak pomáha začať, štruktúrovať a kritizovať, no škodí, ak robí prácu
+namiesto žiaka.
+
+│
+├── [E] Východisko: problém je „ilúzia kompetencie“
+│   ├── [E] Karpicke a Roediger použili rereading ako kontrolu
+│   │   ├── [E] Dôvod: rereading robí väčšina študentov
+│   │   └── [E] Survey 117 študentov: väčšina volila rereading
+│   ├── [E] Relatívne málo študentov používa self-testing/free recall
+│   ├── [⚡][E] Toto pomenovali ako „illusion of competence“
+│   ├── [I] Autor tým pripravuje pôdu pre útok na pasívne učenie
+│   └── [A][~] Dátový základ je použitý skôr ako odrazový mostík,
+│       nie ako detailne rozvinutý dôkaz pre AI kontext
+│
+├── [E] Nosný argument 1: učenie potrebuje kognitívnu námahu
+│   ├── [E] Bjork, Karpicke, Roediger: učenie zlepšíme technikami,
+│   │   ktoré nútia k úsiliu
+│   ├── [E] Učitelia aj študenti sa často mýlia o tom, ako vzniká učenie
+│   │   ├── [E] Myslia si, že stačí prednáška, rereading, highlightovanie
+│   │   └── [I] Autor to spája s pohodlným modelom školy
+│   ├── [E] Odporúčajú generative learning
+│   ├── [E] Bjork stavia odporúčania na „desirable difficulty“
+│   ├── [⚡][E] Krátkodobá bolesť → dlhodobý zisk v retencii a porozumení
+│   ├── [📖][E] Eseje a assignments sú obhájené práve týmto princípom
+│   └── [A] Tu sa láme hlavná logika textu: hodnota úlohy je v námahe,
+│       nie len v produkte
+│
+├── [E] Nosný argument 2: generovanie je lepšie než prijímanie
+│   ├── [E] Generating words, knowledge and solutions je lepšie než
+│   │   reading, highlighting alebo nechať AI to spraviť za teba
+│   ├── [E] Osobné generovanie dáva kontext pre lepšie pochopenie
+│   │   a neskoršie vybavenie
+│   ├── [E] Preto vôbec zadávame eseje a assignments
+│   ├── [I] Autor tvrdí, že ak AI prevezme generovanie, berie si jadro
+│   │   učenia
+│   ├── [!][A] Predpoklad: vzťah „viac vlastného generovania = lepšie“
+│   │   je prezentovaný dosť lineárne, bez podmienok a výnimiek
+│   └── [A][~] Silné ako pedagogická zásada; menej presné ako všeobecný
+│       zákon pre všetky úlohy a všetkých žiakov
+│
+├── [E] Nosný argument 3: Wittrockova teória dáva autorovi model
+│   ├── [E] Learners nie sú pasívni prijímatelia, ale aktívni
+│   │   reorganizéri poznania
+│   ├── [E] Učenie vzniká integráciou nového do toho, čo už viem
+│   │   cez generative activities
+│   ├── [E] Efektívne vyučovanie facilituje konštrukciu významu
+│   ├── [E] Model má štyri procesy:
+│   │   ├── [E] 1) Attention
+│   │   ├── [E] 2) Motivation
+│   │   ├── [E] 3) Knowledge and preconceptions
+│   │   └── [E] 4) Generation
+│   ├── [E] Autor pripisuje AI pozitívnu rolu v prvých troch oblastiach
+│   │   ├── [E] AI pomáha upriamiť pozornosť na východisko/argument
+│   │   ├── [E] AI pomáha so štartom a motiváciou investovať čas
+│   │   └── [E] AI pomáha budovať počiatočnú platformu vedomostí
+│   ├── [⚡][E] Problém nastáva pri štvrtej zložke: generation
+│   │   └── [E] Ak ju delegujeme na AI, učenie môže trpieť
+│   ├── [I] Toto je centrálne rozlíšenie textu: AI pri rozbehu áno,
+│   │   AI pri zmyslotvorbe nie
+│   └── [A] Logika je konzistentná: autor nehádže AI do jedného vreca,
+│       ale delí funkcie podľa fázy učenia
+│
+├── [E] Nosný argument 4: Bruner ukazuje, prečo nestačí len zadať tému
+│   ├── [E] Brunerove 4 princípy:
+│   │   ├── [E] 1) Readiness
+│   │   ├── [E] 2) Structure
+│   │   ├── [E] 3) Sequence
+│   │   └── [E] 4) Generation
+│   ├── [E] „Just throwing an essay title at them is far from adequate“
+│   ├── [E] Ak žiaka nastavíš bez podpory, bude to vnímať transakčne
+│   │   └── [E] A zareaguje skratkou cez AI
+│   ├── [E] Preto je hodné dať štruktúru a sekvenciu
+│   ├── [E] Generation prináša extrapolation, filling gaps, expansion
+│   ├── [E] Brunerov termín pre riešenie: scaffolding
+│   ├── [A][~] Autor sám priznáva, že scaffolding je trochu „hazy“
+│   │   a pýta si detailnejšie spresnenie
+│   ├── [⚡][E] Tu vstupuje AI „to good effect“
+│   └── [I] Autor mení AI z hrozby na nástroj scaffoldingu
+│
+├── [E] Kľúčový obrat: AI ako podpora, nie generátor riešení
+│   ├── [E] Študenti majú byť vedení používať AI na:
+│   │   ├── [E] find
+│   │   ├── [E] support
+│   │   ├── [E] sequence
+│   │   └── [E] critique their work
+│   ├── [⚡][E] „not generate it from scratch“
+│   ├── [E] Autor to označuje za vital distinction
+│   ├── [E] AI má byť dialóg medzi žiakom a imagined mentor
+│   ├── [E] Treba akceptovať, že AI sa bude používať
+│   │   └── [E] lebo je useful mentor
+│   ├── [E] Chyba je chápať súčasnú AI len ako generovanie textu
+│   ├── [E] AI vie:
+│   │   ├── [E] reason
+│   │   ├── [E] support
+│   │   ├── [E] critique
+│   │   ├── [E] identify gaps in reasoning
+│   │   └── [E] act as expert mentor / external perspective
+│   ├── [!][A] Predpoklad: AI poskytuje dostatočne spoľahlivú expert
+│   │   perspektívu; text málo rieši halucinácie a kvalitu rád
+│   └── [A] Toto je najsilnejšia presviedčacia veta textu aj jeho
+│       najväčší praktický claim
+│
+├── [E] Praktická časť: návod „Using AI as a mentor, not a ghostwriter“
+│   ├── [📖][E] Prázdny papier ako psychologická bariéra
+│   │   ├── [E] Many learners are overwhelmed by blank piece of paper
+│   │   ├── [E] Nevedia nájsť way in / solid place to start
+│   │   └── [📖][E] Hora, na ktorú treba vyliezť
+│   ├── [E] AI môže znížiť strach zo začiatku
+│   │   ├── [E] help get started
+│   │   ├── [E] provide right equipment
+│   │   └── [E] mentor them forward
+│   ├── [⚡][E] Veľký rozdiel:
+│   │   ├── [E] AI writes assignment for you = outsourcing effort
+│   │   └── [E] AI helps you move forward = preserving effort
+│   ├── [📖][E] AI ako guide on the route / teacher next to you
+│   └── [📖][E] „Let AI hold the ladder, not climb for you.“
+│
+├── [E] Workflow 1: Just get started
+│   ├── [→][E] Nepoužívaj AI, aby písala za teba
+│   ├── [→][E] Použi ju, aby tvoje myslenie bolo rigoróznejšie
+│   ├── [→][E] Začni rough argument / outline / notes / statement /
+│   │   reading list / sources
+│   ├── [E] Prvá verzia môže byť messy
+│   ├── [E] Môžeš to vygenerovať sám
+│   ├── [E] Alebo AI môže navrhnúť niekoľko one-paragraph starting points
+│   └── [E] Tvoj úsudok má rozhodnúť, čo bude starting position
+│
+├── [E] Workflow 2: Build your first draft
+│   ├── [→][E] Use AI diagnostically
+│   ├── [→][E] Namiesto full essay žiadaj sources pre case/solution/arg
+│   ├── [E] AI ti dá „pieces of the jigsaw“
+│   ├── [→][E] Napíš first draft vo vlastných slovách
+│   ├── [E] Keep it structured and simple
+│   └── [E] Tu sa začína rysovať structure and sequence
+│
+├── [E] Workflow 3: Diagnose weaknesses
+│   ├── [→][E] Pýtaj sa AI na weak logical jumps
+│   ├── [→][E] unsupported claims
+│   ├── [→][E] vague terms
+│   ├── [→][E] hidden assumptions
+│   ├── [→][E] miesta, kde expert povie „nemôžeš urobiť tento skok“
+│   ├── [E] AI tu nepomáha vyhnúť sa úsiliu
+│   ├── [E] Pomáha odhaliť, kde ešte treba pracovať
+│   └── [⚡][E] „Use AI to critique, not compose“
+│
+├── [E] Workflow 4: Rebuild your argument
+│   ├── [E] Zlepšenie musí prísť z tvojho vlastného judgement
+│   ├── [→][E] Tighten logic
+│   ├── [→][E] Clarify vague concepts
+│   ├── [→][E] Remove exaggeration
+│   ├── [→][E] Add supporting evidence/explanations
+│   ├── [📖][E] Metafora lezenia: secure hand and footholds
+│   └── [A] Autor tu explicitne vracia zodpovednosť späť na žiaka
+│
+├── [E] Workflow 5: Check against sources
+│   ├── [→][E] Konfrontuj argument s actual readings/papers/evidence
+│   ├── [E] AI môže ukázať, kde:
+│   │   ├── [E] oversimplifies an author
+│   │   ├── [E] contradicts source material
+│   │   └── [E] misses important distinction
+│   ├── [E] Tým si nútený do genuine understanding of sources
+│   └── [A][~] Prakticky silné; metodicky slabšie, lebo text nerieši,
+│       čo ak AI sama zle interpretuje zdroj
+│
+├── [E] Workflow 6: Identify what’s missing
+│   ├── [→][E] Pýtaj sa na chýbajúce counterarguments
+│   ├── [→][E] undefended assumptions
+│   ├── [→][E] čo by povedal critic from another perspective
+│   ├── [E] Toto mení reasonable piece na genuinely thoughtful one
+│   └── [I] Autor tu dáva AI rolu nástroja intelektuálnej oponentúry
+│
+├── [E] Workflow 7: Test conclusion
+│   ├── [📖][E] False peak metaphor
+│   │   └── [E] Záver môže vyzerať ako vrchol, ale nemusí ním byť
+│   ├── [E] Záver často tvrdí menej alebo viac, než práca unesie
+│   ├── [→][E] Pýtaj sa, či záver naozaj vyplýva z evidence
+│   ├── [→][E] či neoverstates the case
+│   ├── [→][E] či nie je justified bolder conclusion
+│   └── [E] Cieľ: more precise and defendable conclusion
+│
+├── [E] Workflow 8: Write final version yourself
+│   ├── [→][E] Final version píš až na konci
+│   ├── [E] Počas procesu si mal rozumieť, čo čítaš a píšeš
+│   ├── [E] Finished polished work má byť v tvojich vlastných slovách
+│   ├── [E] Built on strong foundations you managed alone
+│   ├── [E] AI newrite the essay
+│   └── [E] AI served as critic, preserver of method and difficulty,
+│       guide pushing you forward
+│
+├── [E] Záver autora: zachovať užitočnú ťažkosť, nie flounder
+│   ├── [E] Účel eseje/assignment je prinútiť ťa myslieť a učiť sa
+│   ├── [E] Použi tools, ktoré ti umožnia nefloundrovať, ale napredovať
+│   ├── [E] Overcoming difficulties as you proceed
+│   ├── [⚡][E] Keep the useful difficulty and preserve the learning
+│   └── [→][E] Výsledkom má byť práca, ktorá je your own, defensible,
+│       constructive
+│
+├── [I] Tichá architektúra textu: autor robí dvojitý manéver
+│   ├── [I] Najprv delegitimizuje pasívne učenie
+│   ├── [I] Potom legitimizuje „náročné učenie“
+│   ├── [I] Následne povie, že AI je prijateľná len tam, kde
+│   │   náročnosť uchováva
+│   └── [I] Takto zachraňuje AI pre školu bez toho, aby obetoval
+│       tradičný cieľ úloh
+│
+└── [A] Meta vrstva
+├── [A] Komu je text určený
+│   ├── učiteľom, ktorí riešia AI pri esejach a assignments
+│   ├── študentom, ktorým treba vysvetliť „ako AI používať“
+│   └── ľuďom v edtech/vzdelávaní, ktorí nechcú AI ani zakázať,
+│       ani glorifikovať
+├── [A] Čím presviedča
+│   ├── autoritami výskumu (Bjork, Karpicke, Roediger, Wittrock,
+│       Bruner)
+│   ├── silnými pedagogickými pojmami
+│   ├── jasným kontrastom mentor vs ghostwriter
+│   ├── metaforami hory, rebríka, cesty, vrcholu
+│   └── praktickým 8-krokovým návodom
+├── [A] Kde je najsilnejší
+│   ├── v rozlíšení „AI critique vs AI compose“
+│   ├── v prepojení teórie učenia s konkrétnym workflow
+│   └── v tom, že nepôsobí ani techno-naivne, ani prohibične
+├── [A] Kde je najzraniteľnejší
+│   ├── spolieha sa na priaznivý obraz AI ako mentora
+│   ├── málo rieši chybovosť AI a kvalitu zdrojov
+│   ├── málo rieši vek, predmet a kontext žiakov
+│   └── [☠️?][A] možný problém: hasty generalization?
+│       z teórie učenia na široké praktické použitie AI
+│       bez rozlíšenia hraníc platnosti
+└── [A] Hodnota textu
+├── ako mapa sveta: dobrý rámec na premýšľanie o AI v škole
+└── ako presviedčanie: silný, ale skôr normatívny než dôkazový
+```
