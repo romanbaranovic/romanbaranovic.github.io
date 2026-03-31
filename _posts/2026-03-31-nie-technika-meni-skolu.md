@@ -465,3 +465,8 @@ Zároveň mapuje konkrétny rámec, roly, nástroje a podporu.
 └── Pri well-beingu je v ukážkach menej tvrdých dôkazov
 ```
 
+
+
+---
+
+**Interaktívna vizualizácia:** Preskúmaj kľúčové zistenia z dokumentu v interaktívnej forme → [Otvoriť aplikáciu](/apps/digitalna-transformacia.html)
