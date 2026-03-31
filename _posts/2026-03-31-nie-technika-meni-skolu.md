@@ -162,7 +162,7 @@ Ak si riaditeľ, začni kapitolami 1 a 3. Ak si učiteľ, kapitoly 4, 5 a 9 sú 
 
 🔗 [Štúdia implementácia digitálnej transformácie vzdelávania](https://www.ncdtv.sk/wp-content/uploads/2025/09/implementacia-digitalnej-transformacie-vzdelavania.pdf)
 
-Štúdia je naozaj rozsiahla a pre jej lepšie pochopenie som s pomocou AI Claude vytvoril [interaktívnu aplikáciu](digiskolnik.sk/apps/digitalna-transformacia.html).
+Štúdia je naozaj rozsiahla a pre jej lepšie pochopenie som s pomocou AI Claude vytvoril [interaktívnu aplikáciu](https://digiskolnik.sk/apps/digitalna-transformacia.html).
 
 ## Mindmapa
 
