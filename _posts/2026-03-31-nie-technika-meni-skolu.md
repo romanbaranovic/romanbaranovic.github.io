@@ -10,6 +10,7 @@ tags:
 - digitalnaskola
 - ucitelia
 excerpt: Digitálna transformácia školy nie je o tom, že kúpiš viac techniky, ale o tom, že zmeníš spôsob učenia, rolu učiteľa, prostredie školy a pravidlá práce s AI. Keď sa škola zameria len na zariadenia, minie peniaze a získa málo učenia.
+og_image: "/assets/images/Nie-technika-meni-skolu-600px.png"
 ---
 
 ## Digitálna transformácia školy - štúdia NCDTV
@@ -17,6 +18,10 @@ excerpt: Digitálna transformácia školy nie je o tom, že kúpiš viac technik
 > NCDTV zverejnilo prvú veľkú štúdiu o digitálnej transformácii slovenského školstva. Nie je to marketingový materiál projektu. Je to 150 strán, ktoré posúvajú diskusiu od „koľko máme tabúľ" k „čo sa má inak diať na hodine" — a pomenúvajú, čo sa stane, ak to škola pochopí zle.
 
 Tento článok som napísal na základe [Štúdie implementácie digitálnej transformácie vzdelávania](https://www.ncdtv.sk/wp-content/uploads/2025/09/implementacia-digitalnej-transformacie-vzdelavania.pdf) pomocou AI Claude.
+
+![Nie-technika-meni-skolu-600px.png](/assets/images/Nie-technika-meni-skolu-600px.png)
+
+
 
 ---
 
@@ -157,7 +162,7 @@ Ak si riaditeľ, začni kapitolami 1 a 3. Ak si učiteľ, kapitoly 4, 5 a 9 sú 
 
 🔗 [Štúdia implementácia digitálnej transformácie vzdelávania](https://www.ncdtv.sk/wp-content/uploads/2025/09/implementacia-digitalnej-transformacie-vzdelavania.pdf)
 
-Štúdia je naozaj rozsiahla a pre jej lepšie pochopenie som s pomocou AI Claude vytvoril interaktívnu aplikáciu.
+Štúdia je naozaj rozsiahla a pre jej lepšie pochopenie som s pomocou AI Claude vytvoril [interaktívnu aplikáciu](digiskolnik.sk/apps/digitalna-transformacia.html).
 
 ## Mindmapa
 
@@ -465,8 +470,3 @@ Zároveň mapuje konkrétny rámec, roly, nástroje a podporu.
 └── Pri well-beingu je v ukážkach menej tvrdých dôkazov
 ```
 
-
-
----
-
-**Interaktívna vizualizácia:** Preskúmaj kľúčové zistenia z dokumentu v interaktívnej forme → [Otvoriť aplikáciu](/apps/digitalna-transformacia.html)
