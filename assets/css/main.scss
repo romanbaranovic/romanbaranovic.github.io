@@ -7,14 +7,15 @@
 @import "minimal-mistakes/skins/dirt";
 @import "minimal-mistakes";
 
-/* Bez pozadia pre code bloky */
+/* Code bloky */
 .highlight, pre.highlight, div.highlight {
-  background: transparent !important;
+  background: #ffffff !important;
   color: #333 !important;
+  border: 1px solid #e0e0e0;
 }
 
 code {
-  background: transparent !important;
+  background: #ffffff !important;
   color: #333 !important;
 }
 
