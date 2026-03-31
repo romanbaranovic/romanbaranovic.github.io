@@ -10,7 +10,7 @@ tags:
 - digitalnaskola
 - ucitelia
 excerpt: Digitálna transformácia školy nie je o tom, že kúpiš viac techniky, ale o tom, že zmeníš spôsob učenia, rolu učiteľa, prostredie školy a pravidlá práce s AI. Keď sa škola zameria len na zariadenia, minie peniaze a získa málo učenia.
-og_image: "/assets/images/Nie-technika-meni-skolu-600px.png"
+og_image: "/assets/images/Nie-technika-meni-skolu-og.png"
 ---
 
 ## Digitálna transformácia školy - štúdia NCDTV
