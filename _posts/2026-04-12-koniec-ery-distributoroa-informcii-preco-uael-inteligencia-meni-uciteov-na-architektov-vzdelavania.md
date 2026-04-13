@@ -23,7 +23,7 @@ A predsa, keď vojdete do triedy, často uvidíte ten istý starý obrázok: ča
 ![006koniec-ery-distributorov-image-og.png](/assets/images/006koniec-ery-distributorov-image-og.png)
 
 
-Tento článok napísala kombinácia AI spolu so mnou na základe článku https://aieducator.tools/articles/googles-head-of-learning-says-ai-cant-solve-educations-real-problem.
+Tento článok napísala kombinácia AI spolu so mnou na základe článku [Google's Head of Learning Says AI Can't Solve Education's Real Problem](https://aieducator.tools/articles/googles-head-of-learning-says-ai-cant-solve-educations-real-problem).
 
 ### Keď chýba zmysel, učenie sa mení na transakciu
 
